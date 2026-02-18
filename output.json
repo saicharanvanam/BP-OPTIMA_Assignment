@@ -1,0 +1,43 @@
+{
+    "invoice_number": "Invoice",
+    "date": "2026-02-15",
+    "total_amount": 5000.0,
+    "line_items": [
+        [
+            "Invoice Number: INV-1023",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Date: 2026-02-15",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Product A",
+            "2",
+            "1000",
+            "2000"
+        ],
+        [
+            "Product B",
+            "1",
+            "2500",
+            "2500"
+        ],
+        [
+            "Service Charge",
+            "1",
+            "500",
+            "500"
+        ],
+        [
+            "Total Amount: 5000",
+            "",
+            "",
+            ""
+        ]
+    ]
+}
